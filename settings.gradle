@@ -1,0 +1,4 @@
+rootProject.name = 'jsp-sample-parent'
+
+include 'jsp-common'
+include 'jsp-start'
